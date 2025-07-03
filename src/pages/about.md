@@ -4,7 +4,7 @@ title: "About"
 ---
 <figure>
   <img
-    src="https://images.pexels.com/photos/4386431/pexels-photo-4386431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg"
     alt="Hong Kong skyline with modern skyscrapers and Victoria Harbour"
   />
   <figcaption class="text-center">
