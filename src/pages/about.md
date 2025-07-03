@@ -4,11 +4,11 @@ title: "About"
 ---
 <figure>
   <img
-    src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg"
-    alt="Hong Kong skyline with modern skyscrapers and Victoria Harbour"
+    src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Business meeting in China with professionals discussing documents"
   />
   <figcaption class="text-center">
-    Photo by <a href="https://www.pexels.com/photo/hong-kong-skyline-with-modern-skyscrapers-and-victoria-harbour-4386431/">Tom Fisk</a>
+    Photo by <a href="https://www.pexels.com/photo/photo-of-people-near-wooden-table-3184291/">fauxels</a>
   </figcaption>
 </figure>
 
