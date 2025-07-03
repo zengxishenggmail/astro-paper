@@ -15,7 +15,7 @@ This guide provides comprehensive information for foreigners looking to establis
 
 <figure>
   <img
-    src="./assets/images/AstroPaper-v3.png"
+    src="@/assets/images/AstroPaper-v3.png"
     alt="Business registration process in China"
   />
   <figcaption class="text-center">
