@@ -15,7 +15,7 @@ This guide provides comprehensive information for foreigners looking to establis
 
 <figure>
   <img
-    src="../../assets/images/for-blog.jpg"
+    src="https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg"
     alt="Business registration process in China"
   />
   <figcaption class="text-center">
